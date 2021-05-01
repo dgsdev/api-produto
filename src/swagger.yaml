@@ -1,11 +1,11 @@
 ---
-swagger: "2.0"
+swagger: "3.0"
 info:
-  description: "API de Cadastro de Produtos - New Version"
+  description: "API de Cadastro de Produtos - Version DgsDev 2021"
   version: "2.0.0"
-  title: "Cadastro de Produtos - New Version"
+  title: "Cadastro de Produtos - Version KubeDev"
   contact:
-    email: "fabricio@veronez.dev"
+    email: "dgspramos@gmail.com"
 paths:
   /read:
     get:
